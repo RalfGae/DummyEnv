@@ -20,15 +20,15 @@ This repository provides a simple terminal-based chatbot using OpenAI's API. It 
    ```bash
    bash setup.sh
    ```
-3. **Activate the virtual environment:**
-   ```bash
-   source venv/bin/activate
-   ```
-4. **Set your OpenAI API key:**
+3. **Set your OpenAI API key:**
    - Create a `.env` file in the project root with:
      ```
      OPENAI_API_KEY=your-api-key-here
      ```
+4. **Activate the virtual environment:**
+   ```bash
+   source venv/bin/activate
+   ```
 
 ## Usage
 Run the chatbot:
